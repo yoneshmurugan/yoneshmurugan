@@ -64,7 +64,7 @@ yonesh = {
 <div align="center">
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Yonesh's GitHub Metrics" width="800">
+  <img src="github-metrics.svg" alt="Yonesh's GitHub Metrics" width="70%">
 </div>
 
 </div>
