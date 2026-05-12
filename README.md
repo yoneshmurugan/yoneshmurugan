@@ -8,7 +8,7 @@
 
 **Integrated M.Tech Cybersecurity · VIT Bhopal**
 
-[![AWS SAA](https://img.shields.io/badge/AWS_SAA--C03-Certified_823%2F1000-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/63820555-39a7-48e9-9dfa-322fa6596fe2)
+[![AWS SAA](https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/63820555-39a7-48e9-9dfa-322fa6596fe2)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_10%25_Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yoneshmurugan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoneshmurugan)
 [![Email](https://img.shields.io/badge/Email-yoneshmurugan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoneshmurugan@gmail.com)
@@ -32,9 +32,9 @@ yonesh = {
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & DevSecOps
+### Cloud & DevSecOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -43,14 +43,14 @@ yonesh = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -59,12 +59,17 @@ yonesh = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoneshmurugan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoneshmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<div align="center">
+  <!-- General Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoneshmurugan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yonesh's Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoneshmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 </div>
 
