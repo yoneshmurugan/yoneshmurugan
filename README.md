@@ -63,41 +63,19 @@ yonesh = {
 
 <div align="center">
 
-<div align="center">
-  <img src="github-metrics.svg" alt="Yonesh's GitHub Metrics" width="70%">
-</div>
+  <!-- Trophies Section (Spans the top) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yoneshmurugan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="Yonesh's Trophies" />
+  </a>
 
-</div>
+  <br><br> <!-- Adds a little breathing room -->
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yoneshmurugan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoneshmurugan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-| Badge | Certification | Issuer | Status |
-|---|---|---|---|
-|  | **AWS Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Certified · Feb 2026 |
-| **TryHackMe Global Ranking** | TryHackMe | Top 10% · 50+ Rooms Solved |
-
----
+  <!-- Metrics and Streak (Side-by-side) -->
+  <div>
+<img src="https://streak-stats.demolab.com?user=yoneshmurugan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="58%" />
+      </div>
 
 
-##  AWS Services I Work With
-
-<div align="center">
-
-`IAM` · `VPC` · `EC2` · `S3` · `ECS` · `EKS` · `Lambda` · `GuardDuty` · `CloudTrail` · `AWS Config` · `Secrets Manager` · `EBS` · `CloudFormation`
 
 </div>
 
