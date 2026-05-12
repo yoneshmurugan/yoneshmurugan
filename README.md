@@ -64,11 +64,7 @@ yonesh = {
 <div align="center">
 
 <div align="center">
-  <!-- General Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoneshmurugan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yonesh's Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoneshmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="Yonesh's GitHub Metrics" width="800">
 </div>
 
 </div>
