@@ -8,5 +8,12 @@
 🔐 Building: Automated Threat Hunting Platform (GuardDuty + MITRE ATT&CK)
 ☁️ Focus: Cloud Security · DevSecOps · AWS Architecture
 🏆 Top 10% on TryHackMe · Active CTF player
+
 ![Yonesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoneshmurugan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=yoneshmurugan&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoneshmurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoneshmurugan&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
